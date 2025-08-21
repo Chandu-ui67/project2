@@ -3,3 +3,7 @@
 # new reposetries
 
 hii my name is chandan  and i am learning git and git and git hub.
+
+# introduction
+Ggood morning every one  my name is Chandan Gorai.
+i am belongs from Jharkhsnd Jamshedpur .
