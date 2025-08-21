@@ -8,3 +8,6 @@ hello world
 # introduction
 Ggood morning every one  my name is Chandan Gorai.
 i am belongs from Jharkhsnd Jamshedpur .
+
+# README
+read whatever i am writting in my code.
