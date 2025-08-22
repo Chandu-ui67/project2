@@ -9,5 +9,6 @@ hello world
 Ggood morning every one  my name is Chandan Gorai.
 i am belongs from Jharkhsnd Jamshedpur .
 
-# README
-read whatever i am writting in my code.
+# new one
+
+add something new in the different branch (chandan).
